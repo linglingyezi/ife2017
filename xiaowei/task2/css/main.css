@@ -1,0 +1,74 @@
+﻿*{
+	margin:0px;
+	padding:0px;
+}
+img{
+	padding:20px 0px;
+}
+a{
+	text-decoration:none;
+}
+.header{
+	height:65px;
+	background-color:#000;
+}
+.logo img{
+	width:120px;
+	margin:10px 40px;
+}
+.nav ul li{
+	float:left;
+}
+.nav ul li a{
+	color:#fff;
+	display:block;
+	width:90px;
+	line-height:65px;
+	font-size:12px;
+}
+
+.container{
+	padding:20px;
+	background-color:#dedede;
+}
+.com{
+	padding:20px;
+	background-color:#fff;
+	margin-bottom:20px;
+	line-height:2;
+	
+}
+.suo{
+	text-indent:1cm;
+}
+.right{
+}
+.picBox{
+	width:200px;
+	border:1px solid #e4e4e4;
+	margin:20px 40px;
+	text-align:center;
+	padding-top:10px;
+}
+.picBox img{
+	width:160px;
+}
+
+.article-three ol{
+	padding-left:50px;
+}
+	
+.article-three table th{
+	background-color:#000;
+	color:#fff;
+	width:300px;
+}
+
+
+/*通用*/
+.lf{
+	float:left;
+}
+.rt{
+	float:right;
+}
